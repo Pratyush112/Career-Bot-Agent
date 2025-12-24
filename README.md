@@ -1,4 +1,4 @@
-# <h2 align="center"> <strong>🤖 CareerBot — AI Career Assistant Agent<strong> <h2>
+## 🤖 CareerBot — AI Career Assistant Agent
 
 ---
 
