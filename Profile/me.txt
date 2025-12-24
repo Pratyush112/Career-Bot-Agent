@@ -1,0 +1,51 @@
+Name: Pratyush Kumar Saha
+Email: pratyushsaha29@gmail.com
+Github Link: https://github.com/Pratyush112
+Linkedin Profile Link: https://www.linkedin.com/in/pratyush-kumar-saha-98929b233/ 
+
+I have completed my B.Tech in Computer Science and Engineering from Sister Nivedita University. 
+I have completed my class 10th from Narayana Schools with 83.6% and class 12th from Techno India Group Public School with 78.2%.
+I have gained knowledge in Python, C++, and C. I developed and gained hands-on experience in web development, as a Full Stack Developer. 
+I did 3 internships and 2 major projects. 
+Internships are: 
+    1. Intern at Zidio Development as a Full Stack Developer for 2 months (from August 2024 to October 2024):
+        Description: Developed and maintained frontend using React JS, focusing on designing a responsive and high-performance landing page that
+                     significantly reduced load times.
+                     Handled backend development with Node JS and ExpressJS, including designing database schemas and integrating APIs using
+                     MongoDB.
+                     Led a team of 7 members by assigning tasks, reviewing code, and merging changes to the main branch to ensure code quality and
+                     timely delivery.
+                     Collaborated closely with team members to maintain project workflow and uphold development standards.
+
+    2. Intern at Cognifyz Technologies as a Web Developer Intern for 1 month (From July 2024 to August 2024)
+        Description: Responsive Web Page Development: Built a fully responsive web page using HTML, CSS, and JavaScript, implementing
+                     interactive UI functionality and ensuring cross-device compatibility.
+                     Developed a complete client-side form validation module using JavaScript, including input validation,
+                     error handling, and UX-focused feedback.
+                     Created a functional dictionary application and integrated a third-party REST
+                     API to fetch real-time word definitions, pronunciations, and examples. Implemented dynamic rendering and error management for
+                     seamless user experience.
+
+    3. Intern at Oasis Infobyte as a Web Developer Intern for 1 month (From April 2023 to May 2023)
+        Description: Built and deployed 3 responsive web projects using HTML5, CSS3, and JavaScript.
+                     Designed a personal portfolio website with mobile-first responsive UI.
+                     Developed a Gym landing page with structured layout, CTA sections, and custom styling.
+                     Created an interactive Temperature Converter app handling real-time user input & DOM updates using JavaScript.
+                     Improved frontend fundamentals including responsive design, form handling, DOM manipulation, and debugging.
+     
+Projects are: 
+    1. Tranquilo - AI powered Mental Health Chatbot
+        Description: Developed a mental health chatbot using the Botpress framework and MERN stack to create a responsive web application.
+                     Implemented Retrieval-Augmented Generation (RAG) technique in the AI chatbot to assess the severity of mental health conditions
+                     and respond appropriately.
+                     Designed and built the entire project independently, focusing on delivering a user-friendly interface and accurate mental health
+                     condition detection.
+        
+    2. SK-Enterprise 
+        Description: Developed a full-stack website using the MERN stack to showcase products including sluice gates and nuts and bolts.
+                     Managed both frontend and backend development to deliver a seamless user experience.
+                     Utilized Chrome Lighthouse to optimize website performance, SEO, and responsiveness, ensuring high-quality standards.
+                     Delivered the project successfully to the client, enabling effective product presentation and improved online visibility.
+
+I have a good team working experience and a good communication skill. 
+I love to ride bikes and cars, and gain more knowledge about cars.
