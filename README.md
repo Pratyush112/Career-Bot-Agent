@@ -1,4 +1,6 @@
-# 🤖 CareerBot — AI Career Assistant Agent  
+# <h2 align="center"> <strong>🤖 CareerBot — AI Career Assistant Agent<strong> <h2>
+
+---
 
 <p align="center">
   <strong>An AI-powered personal career assistant that represents you professionally on your website</strong><br/>
