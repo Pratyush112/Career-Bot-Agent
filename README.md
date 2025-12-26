@@ -16,7 +16,7 @@
 </p>
 
 ---
-## Working Link:
+## 🔗🌐 Working Link:
 - Will Upload soon...
 
 ## 🌟 Why CareerBot?
@@ -131,6 +131,7 @@ CAREERBOT/
 ├── uv.lock                # Dependency lock file
 └── README.md
 
+```
 
 ## 🚀 Installation & Usage
 
