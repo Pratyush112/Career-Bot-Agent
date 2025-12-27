@@ -206,9 +206,12 @@ AI agent architecture, Real-world tool calling, Clean prompt engineering, Produc
 
 ---
 
-```
-## Authors
 
-- [@Pratyush](https://www.github.com/Pratyush112)
+## Author
 
----
+Pratyush Kumar Saha
+
+- My Github - [Github](https://www.github.com/Pratyush112)
+
+- My Linkedin - [Linkedin](https://www.linkedin.com/in/pratyush-kumar-saha-98929b233/) 
+
