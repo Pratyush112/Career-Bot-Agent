@@ -1,4 +1,4 @@
-## 🤖 CareerBot — AI Career Assistant Agent
+## CareerBot — AI Career Assistant Agent
 
 ---
 
@@ -16,52 +16,52 @@
 </p>
 
 ---
-## 🔗🌐 Working Link:
+## 🔗 Working Link:
 - Will Upload soon...
 
-## 🌟 Why CareerBot?
+## Why CareerBot?
 
 CareerBot is a **production-style AI agent** that acts as a **digital version of you** — answering questions about your **career, skills, experience, and projects** using your **resume, LinkedIn profile, and personal summary**.
 
 Perfect for:
-- 💼 Personal portfolio websites  
-- 🤝 Recruiter-facing AI assistants  
-- 🧠 AI agent architecture demos  
-- 🚀 Resume & GitHub profile enhancement  
+- Personal portfolio websites  
+- Recruiter-facing AI assistants  
+- AI agent architecture demos  
+- Resume & GitHub profile enhancement  
 
 ---
 
-## ✨ Features
+## Features
 
-- 🤖 **AI Career Representation**  
+- **AI Career Representation**  
   Responds like a real professional — not a generic chatbot.
 
-- 📄 **PDF Knowledge Extraction**  
+- **PDF Knowledge Extraction**  
   Reads and understands:
   - Resume (PDF)
   - LinkedIn profile (PDF)
 
-- 🧠 **Context-Persistent System Prompting**  
+- **Context-Persistent System Prompting**  
   Ensures answers stay accurate, professional, and in-character.
 
-- 🛠 **AI Tool Calling (Function Calling)**  
+- **AI Tool Calling (Function Calling)**  
   - Captures visitor name & email  
   - Logs unknown or unanswerable questions  
 
-- 🔔 **Real-Time Notifications**  
+- **Real-Time Notifications**  
   Push alerts via **Pushover API** whenever:
   - A visitor shares contact info  
   - The bot encounters an unknown question  
 
-- 💬 **Web Chat Interface**  
+- **Web Chat Interface**  
   Clean UI using **Gradio ChatInterface**
 
-- ⚡ **UV Package Manager**  
+- **UV Package Manager**  
   Ultra-fast installs, reproducible builds, modern Python workflow.
 
 ---
 
-## 🧠 How It Works
+## How It Works
 
 Loads career documents (Resume, LinkedIn, Summary)
 
@@ -81,37 +81,37 @@ This is a true AI agent pattern, not just a chatbot.
 
 ## 🛠 AI Tools Used
 
-- 📌 recordUserDetails
+- recordUserDetails
 
 Captures visitor contact details and notifies the owner.
 
-- ❓ recordUnknownQuestion
+- recordUnknownQuestion
 
 Logs unanswered questions for improvement and follow-up.
 
-- 🔐 Security & Privacy
+- Security & Privacy
 
-- 🔒 Secrets managed via .env
+- Secrets managed via .env
 
-- 🚫 No database used (stateless & secure)
+- No database used (stateless & secure)
 
-- 🧹 .env and .venv excluded from version control
+- .env and .venv excluded from version control
 
-- 🌱 Roadmap
+- Roadmap
 
-- 📊 Conversation analytics dashboard
+- Conversation analytics dashboard
 
-- 📧 Email notifications & CRM sync
+- Email notifications & CRM sync
 
-- 🧠 Vector embeddings (RAG)
+- Vector embeddings (RAG)
 
-- 🐳 Docker support
+- Docker support
 
-- ☁️ Cloud deployment (Vercel / Fly.io / AWS)
+- Cloud deployment (Vercel / Fly.io / AWS)
 
 ---
 
-## 🗂 Project Structure
+## Project Structure
 
 ```text
 CAREERBOT/
@@ -133,7 +133,7 @@ CAREERBOT/
 
 ```
 
-## 🚀 Installation & Usage
+## Installation & Usage
 
 1️⃣ Clone the Repo:
 
@@ -177,16 +177,16 @@ AI agent architecture, Real-world tool calling, Clean prompt engineering, Produc
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 | Parameter       | Type                     | 
 | :-------------- | ------------------------ |
 | Layer           | Technology	             |
-|Language	      | Python 3.10+             |
-|AI Model	      | Gemini (gemini-2.5-flash)|
+|Language	        | Python 3.10+             |
+|AI Model	        | Gemini (gemini-2.5-flash)|
 |UI	              | Gradio                   |
-|PDF Parsing	  | pypdf                    |
+|PDF Parsing	    | pypdf                    |
 |Env Management	  | python-dotenv            |
-|HTTP	          | requests                 |
+|HTTP	            | requests                 |
 |Package Manager  | UV                       |
 |Notifications	  | Pushover API             |
 
@@ -194,15 +194,15 @@ AI agent architecture, Real-world tool calling, Clean prompt engineering, Produc
 ---
 
 ## If you find this useful:
-- ⭐ Support the Project
+- Support the Project
 
-- ⭐ Star the repository
+- Star the repository
 
-- 🍴 Fork it
+- Fork it
 
-- 💡 Suggest improvements
+- Suggest improvements
 
-- 📢 Share with others
+- Share with others
 
 ---
 

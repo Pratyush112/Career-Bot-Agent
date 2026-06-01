@@ -4,7 +4,7 @@ from openai import OpenAI
 from pypdf import PdfReader 
 from dotenv import load_dotenv 
 import requests 
-import gradio as gr 
+import gradio as gr #gradio is not bring recognised by the vs code
 # from twilio.rest import Client
 
 load_dotenv(override=True) 
@@ -103,7 +103,7 @@ class chatbot:
             if text:
                 self.linkedin+=text
         
-        readResume = PdfReader("Profile/Resume.pdf")
+        readResume = PdfReader("Profile/PratyushKumarSahaCV.pdf")
         for pg in readResume.pages:
             txt=pg.extract_text()
             if txt:
@@ -153,7 +153,7 @@ class chatbot:
             response = self.gemini.chat.completions.create(
                 model="gemini-2.5-flash",
                 messages=msg,
-                tools=tools
+                tools=tools #; is missing
             )
 
             if response.choices[0].finish_reason=="tool_calls":
